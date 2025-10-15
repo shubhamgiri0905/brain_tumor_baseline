@@ -1,0 +1,14 @@
+2025-10-14 15:12:47,984 - INFO - Starting new training session...
+2025-10-14 15:12:47,985 - INFO - Dataset shape: (50, 6)
+2025-10-14 15:12:48,739 - INFO - Model, loss, and optimizer initialized.
+2025-10-14 15:12:48,832 - INFO - Epoch [200/2000], Loss: 0.2963
+2025-10-14 15:12:48,929 - INFO - Epoch [400/2000], Loss: 0.0798
+2025-10-14 15:12:49,062 - INFO - Epoch [600/2000], Loss: 0.0270
+2025-10-14 15:12:49,163 - INFO - Epoch [800/2000], Loss: 0.0118
+2025-10-14 15:12:49,259 - INFO - Epoch [1000/2000], Loss: 0.0061
+2025-10-14 15:12:49,357 - INFO - Epoch [1200/2000], Loss: 0.0035
+2025-10-14 15:12:49,456 - INFO - Epoch [1400/2000], Loss: 0.0023
+2025-10-14 15:12:49,554 - INFO - Epoch [1600/2000], Loss: 0.0015
+2025-10-14 15:12:49,658 - INFO - Epoch [1800/2000], Loss: 0.0011
+2025-10-14 15:12:49,754 - INFO - Epoch [2000/2000], Loss: 0.0008
+2025-10-14 15:12:49,757 - INFO - Model trained and saved successfully.
